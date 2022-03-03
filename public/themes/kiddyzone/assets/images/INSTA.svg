@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#XMLID_37_);fill:url(#XMLID_38_);}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:2.517;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;}
+</style>
+<g id="XMLID_45_">
+	<defs>
+		<path id="XMLID_33_" d="M1,15c0,7.8,6.3,14.2,14,14.2c7.7,0,14-6.3,14-14.2c0-7.8-6.3-14.2-14-14.2C7.3,0.8,1,7.2,1,15"/>
+	</defs>
+	<clipPath id="XMLID_37_">
+		<use xlink:href="#XMLID_33_"  style="overflow:visible;"/>
+	</clipPath>
+	
+		<linearGradient id="XMLID_38_" gradientUnits="userSpaceOnUse" x1="-833.067" y1="6933.9312" x2="-832.5463" y2="6933.9312" gradientTransform="matrix(-35.5312 -40.8739 -40.8739 35.5312 253841.5313 -280395.8438)">
+		<stop  offset="0" style="stop-color:#5E56A0"/>
+		<stop  offset="0.4244" style="stop-color:#A94193"/>
+		<stop  offset="0.4788" style="stop-color:#AF3F8E"/>
+		<stop  offset="0.5767" style="stop-color:#BD3B80"/>
+		<stop  offset="0.7058" style="stop-color:#D23269"/>
+		<stop  offset="0.7849" style="stop-color:#E12A5A"/>
+		<stop  offset="0.8123" style="stop-color:#E23E5C"/>
+		<stop  offset="0.8647" style="stop-color:#E7645F"/>
+		<stop  offset="0.9359" style="stop-color:#EF9161"/>
+		<stop  offset="1" style="stop-color:#FABE5D"/>
+	</linearGradient>
+	<polygon id="XMLID_34_" class="st0" points="13,43 -13,13 16.9,-13.1 43,17 	"/>
+</g>
+<path id="XMLID_42_" class="st1" d="M16.7,21.4L16.7,21.4z M24.7,7.1L24.7,7.1z"/>
+<path id="XMLID_39_" class="st2" d="M15.5,19.6c2.8,0,5-2.3,5-5.1c0-2.8-2.2-5.1-5-5.1c-2.8,0-5,2.3-5,5.1
+	C10.5,17.4,12.7,19.6,15.5,19.6 M11.7,14.6c0-2.1,1.7-3.8,3.8-3.8c2.1,0,3.8,1.7,3.8,3.8c0,2.1-1.7,3.8-3.8,3.8
+	C13.4,18.4,11.7,16.7,11.7,14.6"/>
+<path id="XMLID_36_" class="st2" d="M20.5,23h-10c-1.9,0-3.4-1.5-3.4-3.4V9.6c0-1.9,1.5-3.4,3.4-3.4h10c1.9,0,3.4,1.5,3.4,3.4v9.9
+	C23.9,21.4,22.4,23,20.5,23 M10.5,7.4c-1.2,0-2.2,1-2.2,2.2v9.9c0,1.2,1,2.2,2.2,2.2h10c1.2,0,2.2-1,2.2-2.2V9.6
+	c0-1.2-1-2.2-2.2-2.2H10.5z"/>
+</svg>

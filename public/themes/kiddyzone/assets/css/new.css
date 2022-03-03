@@ -1,0 +1,12 @@
+div#main-category span.pl5 {
+    font-size: 20px !important;
+}
+.header-top .top-right div#top-links .left-wrapper.row a.compare-btn.unset {
+    display: none !important;
+}
+.header-top .top-right div#top-links .left-wrapper.row a.wishlist-btn.unset {
+    color: #fff200 !important;
+}
+.header-top .top-right div#top-links .left-wrapper.row button#mini-cart {
+    color:#fff200 !important;
+}

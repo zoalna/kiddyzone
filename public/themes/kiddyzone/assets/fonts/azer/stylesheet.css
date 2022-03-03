@@ -1,0 +1,39 @@
+@font-face {
+    font-family: '29LT Azer';
+    src: url('29LTAzer-Slanted.eot');
+    src: url('29LTAzer-Slanted.eot?#iefix') format('embedded-opentype'),
+        url('29LTAzer-Slanted.woff2') format('woff2'),
+        url('29LTAzer-Slanted.woff') format('woff'),
+        url('29LTAzer-Slanted.ttf') format('truetype'),
+        url('29LTAzer-Slanted.svg#29LTAzer-Slanted') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '29LT Azer';
+    src: url('29LTAzer-Regular.eot');
+    src: url('29LTAzer-Regular.eot?#iefix') format('embedded-opentype'),
+        url('29LTAzer-Regular.woff2') format('woff2'),
+        url('29LTAzer-Regular.woff') format('woff'),
+        url('29LTAzer-Regular.ttf') format('truetype'),
+        url('29LTAzer-Regular.svg#29LTAzer-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '29LT Azer';
+    src: url('29LTAzer-Bold.eot');
+    src: url('29LTAzer-Bold.eot?#iefix') format('embedded-opentype'),
+        url('29LTAzer-Bold.woff2') format('woff2'),
+        url('29LTAzer-Bold.woff') format('woff'),
+        url('29LTAzer-Bold.ttf') format('truetype'),
+        url('29LTAzer-Bold.svg#29LTAzer-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

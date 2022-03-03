@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34" height="34" viewBox="0 0 34 34">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="34" height="34" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_1" data-name="Repeat Grid 1" clip-path="url(#clip-path)">
+    <g id="Group_2268" data-name="Group 2268">
+      <rect id="Rectangle_300" data-name="Rectangle 300" width="34" height="34" rx="6" fill="#e21b1b"/>
+      <path id="Icon_awesome-facebook-f" data-name="Icon awesome-facebook-f" d="M10.237,9.7l.479-3.12H7.723V4.553A1.56,1.56,0,0,1,9.482,2.867h1.361V.211A16.6,16.6,0,0,0,8.427,0C5.961,0,4.35,1.494,4.35,4.2V6.577H1.609V9.7H4.35v7.542H7.723V9.7Z" transform="translate(11.452 9.115)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
